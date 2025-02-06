@@ -40,7 +40,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini:
 ### 1. **Clone Repositori**
 Buka terminal atau command prompt favorit Anda, lalu jalankan perintah berikut:
 ```bash
-git clone https://github.com/username/nama-repositori.git
+https://github.com/andikagithub1/tugasR.git
 ```
 Ganti `username` dan `nama-repositori` dengan informasi repositori Anda.
 
