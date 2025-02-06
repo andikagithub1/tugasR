@@ -1,4 +1,4 @@
-Berikut adalah versi `README.md` yang mencakup penjelasan tentang file tersembunyi seperti `node_modules`, `.expo`, dan `.vscode`. Saya juga menambahkan elemen lucu dan unik agar lebih menarik perhatian.
+
 
 ---
 
